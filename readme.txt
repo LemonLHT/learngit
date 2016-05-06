@@ -5,4 +5,10 @@ create a branch is quick and simple
 #!/usr/bin
 print('hello wrold')
 new line
+<<<<<<< HEAD
 add lien
+=======
+hello
+
+
+>>>>>>> dev
